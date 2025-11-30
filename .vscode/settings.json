@@ -1,0 +1,13 @@
+{
+  "css.customData": [".vscode/css-custom-data.json"],
+  "css.lint.unknownAtRules": "warning",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.experimental.classRegex": [
+    ["@apply\\s+([^;]+)", "([^\\s]+)"]
+  ]
+}
